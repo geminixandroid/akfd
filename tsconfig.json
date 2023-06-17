@@ -1,0 +1,12 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
+  "vueCompilerOptions": {
+    "extensions": [
+      ".vue"
+    ],
+    "plugins": [
+      "@volar/vue-language-plugin-pug"
+    ]
+  },
+}

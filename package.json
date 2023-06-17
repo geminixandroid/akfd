@@ -1,0 +1,39 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "theme_color": "#ffb600",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.4.55",
+    "@mdi/js": "^5.4.55",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@prettier/plugin-pug": "^2.5.1",
+    "@types/node": "^18",
+    "@typescript-eslint/parser": "^5.59.11",
+    "@volar/vue-language-plugin-pug": "^1.6.5",
+    "@volar/vue-language-service": "^1.6.5",
+    "@vue/language-plugin-pug": "^1.8.0",
+    "eslint": "^8.43.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.14.1",
+    "eslint-plugin-vue-pug": "^0.6.0",
+    "material-design-icons-iconfont": "^6.7.0",
+    "nuxt": "^3.5.2",
+    "prettier": "^2.8.8",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.63.4",
+    "typescript": "^5.1.3",
+    "vue-pug": "^1.0.2",
+    "vuetify": "^3.3.3"
+  }
+}
